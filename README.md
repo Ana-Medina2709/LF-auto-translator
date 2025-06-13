@@ -1,4 +1,4 @@
-# Pragmatic Auto-Translator
+# LF Auto-Translator
 
 A corpus-informed, whole-document machine translation research project that challenges traditional sentence-by-sentence translation approaches.
 
@@ -11,7 +11,7 @@ The Pragmatic Auto-Translator investigates potential improvements to machine tra
 
 ### Current Implementation (Version 1)
 - **Languages**: Spanish ↔ English
-- **Domain**: Generative Artificial Intelligence
+- **Domain**: Forensic Linguistics
 - **Deployment**: Client-side on GitHub Pages
 - **Embedding Model**: JINA Embeddings v3
 - **Translation Engine**: DeepSeek API
